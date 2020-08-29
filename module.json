@@ -1,0 +1,19 @@
+{
+  "name": "SilverStandard",
+  "title": "The Silver Standard",
+  "description": "Changes currency conversion: 100 silver to 1 gold, 100 gold to 1 platinum.  Also removes Electrum from default 5e, TidyUI, and DnDBeyond Sheets",
+  "version": "0.1",
+  "author": "Sparkasaurusmex",
+  "systems": ["dnd5e"],
+  "minimumSystemVersion": 0.95,
+  "scripts": [ "SilverStandard.js" ],
+  "styles": ["SilverStandard.css"],
+  "esmodules": [],
+  "packs": [],
+  "url": "https://github.com/Sparkasaurusmex/SilverStandard/",
+  "manifest": "https://raw.githubusercontent.com/Sparkasaurusmex/SilverStandard/master/module.json",
+  "download": "https://github.com/Sparkasaurusmex/SilverStandard/releases/download/0.1/SilverStandard.zip",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.6.6"
+
+}
